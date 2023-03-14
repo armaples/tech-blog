@@ -1,0 +1,22 @@
+[
+    {
+        "title":"JSON for Dummies",
+        "content":"Here is how to do some JSON!"
+    },
+    {
+        "title":"Javascript for Dummies",
+        "content":"Here is how to do some Javascript!"
+    },
+    {
+        "title":"React for Dummies",
+        "content":"Here is how to do some React!"
+    },
+    {
+        "title":"CSS for Dummies",
+        "content":"Here is how to do some CSS!"
+    },
+    {
+        "title":"HTML for Dummies",
+        "content":"Here is how to do some HTML!"
+    }
+]
