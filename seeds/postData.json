@@ -1,22 +1,27 @@
 [
     {
         "title":"JSON for Dummies",
-        "content":"Here is how to do some JSON!"
+        "content":"Here is how to do some JSON!",
+        "userId":"1"
     },
     {
         "title":"Javascript for Dummies",
-        "content":"Here is how to do some Javascript!"
+        "content":"Here is how to do some Javascript!",
+        "userId":"2"
     },
     {
         "title":"React for Dummies",
-        "content":"Here is how to do some React!"
+        "content":"Here is how to do some React!",
+        "userId":"3"
     },
     {
         "title":"CSS for Dummies",
-        "content":"Here is how to do some CSS!"
+        "content":"Here is how to do some CSS!",
+        "userId":"1"
     },
     {
         "title":"HTML for Dummies",
-        "content":"Here is how to do some HTML!"
+        "content":"Here is how to do some HTML!",
+        "userId":"1"
     }
 ]

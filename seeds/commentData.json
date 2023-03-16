@@ -1,14 +1,22 @@
 [
     {
-        "content":"Awesome!"
+        "content":"Awesome!",
+        "postId":"1",
+        "userId":"2"
     },
     {
-        "content":"Cool!"
+        "content":"Cool!",
+        "postId":"2",
+        "userId":"3"
     },
     {
-        "content":"I do not like this."
+        "content":"I do not like this.",
+        "postId":"3",
+        "userId":"1"
     },
     {
-        "content":"Interesting..."
+        "content":"Interesting...",
+        "postId":"2",
+        "userId":"1"
     }
 ]
